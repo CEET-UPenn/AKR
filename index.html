@@ -277,25 +277,18 @@ including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide
 bridges, packing, decrease of the entropy of unfolding, and intersubunit
 interactions.</p>
 </div>
-          <div class="tab-pane" data-value="Existing members" id="tab-5544-1">
-            <p>This table contains all known members of the AKR Superfamily that are contained
-in our database.</p>
 
-            <hr/>
+<hr>
     <div class="container-fluid">
         <main class="row">
             <div class="col">
+                <h1>Existing Members</h1>
+
+                <p>This table contains all known members of the AKR Superfamily that are contained
+in our database.</p>
                 <div id="table-container"></div>
             </div>
         </main>
-        <footer class="row">
-            <div class="col">
-                <hr>
-                <p class="text-right"><a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
-                    <a href="http://derekeder.com">Derek
-                        Eder</a></p>
-            </div>
-        </footer>
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
@@ -322,11 +315,10 @@ in our database.</p>
             datatables_options: {
                 paging: false
             },
-            custom_formatting: [
-                [4, format_link]
-            ]
+            custom_formatting: [[1, format_link],[4, format_link],[5, format_link]]
         });
-    </script>            <p style="font-size: 0.85em">
+    </script>
+	<p style="font-size: 0.85em">
               <sup>1</sup>
                Where no reference is given please refer to the 
               accession number in the appropriate database
@@ -336,19 +328,55 @@ in our database.</p>
               megachiliensis
             </p>
           </div>
+<hr>
           <div class="tab-pane" data-value="Potential members" id="tab-5544-2">
-            <p>This table lists potential AKR superfamily members. These are currently excluded
+
+    <div class="container-fluid">
+        <main class="row">
+            <div class="col">
+                <h1>Potential Members</h1>
+
+                <p>This table lists potential AKR superfamily members. These are currently excluded
 from the nomenclature because either no functional data exists for the protein
 or the sequence is a partial cDNA or derived from a genomics project.</p>
+                <div id="table-container2"></div>
+            </div>
+        </main>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
 
-            <hr/>
-            <div class="datatables html-widget html-widget-output shiny-report-size html-fill-item" id="potential" style="width:100%;height:auto;"></div>
+    <script>
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "data/table/potential_members.csv",
+            element: "table-container2",
+            allow_download: true,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            }
+        });
+    </script>
+	<hr>
           </div>
-          <div class="tab-pane" data-value="Grouped by PDB Structure" id="tab-5544-3">
+<!--          <div class="tab-pane" data-value="Grouped by PDB Structure" id="tab-5544-3">
             <p>This table contains AKR sequences grouped according to Protein Data Bank (PDB)
 structures. Note that more than one AKR can map to the same PDB entry.</p>
-
-            <hr/>
+-->
+            <hr>
             <div class="datatables html-widget html-widget-output shiny-report-size html-fill-item" id="pdb" style="width:100%;height:auto;"></div>
           </div>
           <div class="tab-pane" data-value="Phylogenies" id="tab-8158-4">
