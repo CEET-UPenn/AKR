@@ -171,23 +171,25 @@ This page enables visualization of aligned protein sequences for various groups 
 
 ## Submit
 Please email the following to placeholder@UPenn.edu
->Name
->Email
->Phone
->Street Address
->City
->State/Province/Region
->Postal/Zip Code
->Country
+>Name  
+>Email  
+>Phone  
+>Street Address  
+>City  
+>State/Province/Region  
+>Postal/Zip Code  
+>Country  
 >
->Trivial name if one has been assigned (if none, state None)
->Has the protein been expressed? Yes/No
->What function has been assigned to the protein?
->Sequence of the protein
->Species of origin
->Expression system used
->Substrate used to assign enzyme activity
->Accession Number
->Status of Publication
->Citation, if one exists (if none, state None)
+>Trivial name if one has been assigned (if none, state None)  
+>Has the protein been expressed? Yes/No  
+>What function has been assigned to the protein?  
+>Sequence of the protein  
+>Species of origin  
+>Expression system used  
+>Substrate used to assign enzyme activity  
+>Accession Number  
+>Status of Publication  
+>Citation, if one exists (if none, state None)  
+
+
 [Home](#top)
