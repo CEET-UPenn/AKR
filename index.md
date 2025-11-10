@@ -39,7 +39,7 @@ This work was supported by the University of Pennsylvania [Center of Excellence 
 
 [Home](#top)
 
----
+***
 
 # About AKR 
 ## Nomenclature
@@ -63,7 +63,7 @@ The designation for an AKR superfamily gene should be noted in italics to distin
 The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 
 
----
+***
 
 ## Protein Structures
 AKRs are characterized by an (αβ)8-barrel structure.  
@@ -82,7 +82,7 @@ Blue sphere indicates the position of a water molecule and the probable position
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/tetrad.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 [Home](#top)
 
----
+***
 
 ## AKR Family Descriptions
 ### AKR Family 1
@@ -123,7 +123,7 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 
 [Home](#top)
 
----
+***
 
 # AKR Members 
 ## Existing Members
@@ -133,7 +133,7 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 <a href="https://ceet-upenn.github.io/AKR-tables/#Potential">Link to Potential AKR Superfamily Members Table</a>
 [Home](#top)
 
----
+***
 
 # Phylogenies {#phylo}
 This dendrogram replaces the older version constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
@@ -142,7 +142,7 @@ Note that tree diagrams are only available to families with at least three membe
 ## Select an AKR Phylogeny Diagram
 [Home](#top)
 
----
+***
 
 # Multiple Sequence Alignment 
 This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. To use it, select a group of interest from the interactive menu to adjust the set of sequences output. The alignment is created with MSAViewer, which provides an interactive JavaScript-based visualization of multiple sequence alignment. Options for the aligner can be set with the blue buttons, including the color scheme. Further details can be found in the MSAViewer user manual and this GitHub repository on available color schemes.
@@ -150,7 +150,7 @@ This page enables visualization of aligned protein sequences for various groups 
 
 [Home](#top)
 
----
+***
 
 # Submit AKR Sequences 
 ## Instructions
