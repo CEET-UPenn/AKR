@@ -44,6 +44,8 @@ This work was supported by the University of Pennsylvania [Center of Excellence 
 ## Nomenclature
 The general format for AKR names is as follows: the root symbol ‘AKR’ for Aldo-Keto Reductase; an Arabic number designating the family; a letter indicating the subfamily when multiple subfamilies exist; and an Arabic numeral representing the unique protein sequence. Under the system, the protein AKR1A1 would be the first AKR in family 1, subfamily A, and in this instance corresponds to human aldehyde reductase.
 
+This nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
+
 ### Definition of Families 
 Delineation of families occurs at the 40% amino acid identity level. Members of an AKR family should have < 40% amino acid identity with any other family. At present, the sixteen families defined by our cluster analysis satisfy this criterion.
 
@@ -59,7 +61,6 @@ Multimers are proteins which consist of multiple monomers. Although majority of 
 ### AKR Genes
 The designation for an AKR superfamily gene should be noted in italics to distinguish between the gene and the protein. For example, the gene AKR1A1 encodes the protein AKR1A1.
 
-The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 ---
 ## Protein Structures
 AKRs are characterized by an (αβ)8-barrel structure.
