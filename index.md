@@ -1,11 +1,5 @@
-
 <head>
 <title>AKR Superfamily</title>
-<style>
-.image-container {
-  max-width: 50%;
-}
-</style>
 </head>
 
 # Aldo-Keto Reductase (AKR) Superfamily Database
@@ -190,21 +184,21 @@ Note that tree diagrams are only available to families with at least three membe
 <details>
  <summary>AKR1</summary>
  <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true'); max-width:50%"></span>
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true'); max-width:80%"></span>
  </div>
 </details>
 
 <details>
  <summary>AKR2</summary>
  <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true'); width: 500px"></span>
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true'); max-width:90%"></span>
  </div>
 </details>
 
 <details>
  <summary>AKR3</summary>
  <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR3.png?raw=true')"></span>
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR3.png?raw=true') max-width:100%"></span>
  </div>
 </details>
 
