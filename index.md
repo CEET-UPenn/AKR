@@ -63,19 +63,19 @@ The designation for an AKR superfamily gene should be noted in italics to distin
 
 ---
 ## Protein Structures
-AKRs are characterized by an (αβ)8-barrel structure.
+AKRs are characterized by an (αβ)8-barrel structure.  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR_barrel_structure.png?raw=true)](https://www.rcsb.org/3d-view/1US0/1)
 
 ### Loop Structure
-Using the structure of AKR1C9W, CHO Reductase with NADP+, three large loops can be assigned.
+Using the structure of AKR1C9W, CHO Reductase with NADP+, three large loops can be assigned.  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR_loop_structure.png?raw=true)](https://www.rcsb.org/3d-view/1C9W/1)
 
 ### Cofactor Binding Site
-Cofactor binding site for 3α-HSD (AKR1C9). Distances are in angstroms.
+Cofactor binding site for 3α-HSD (AKR1C9). Distances are in angstroms.  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/cofactor.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 
 ### Typical Catalytic Tetrad
-Blue sphere indicates the position of a water molecule and the probable position of the substrate carbonyl. Taken from 3α-HSD (AKR1c9).
+Blue sphere indicates the position of a water molecule and the probable position of the substrate carbonyl. Taken from 3α-HSD (AKR1c9).  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/tetrad.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 [Home](#top)
 ---
