@@ -1,7 +1,3 @@
-<head>
-<title>AKR Superfamily</title>
-</head>
-
 # Aldo-Keto Reductase (AKR) Superfamily Database
 
 [About AKR](#about) | 
