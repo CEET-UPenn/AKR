@@ -144,17 +144,14 @@ Note that tree diagrams are only available to families with at least three membe
 ### By Family Group
 <details>
 <summary>AKR1</summary>
-<br>
-
-<img src="https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true">
-
+<div class="image-container">    
+ <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true')"></span>
 </details>
 
 <details>
 <summary>AKR2</summary>
-
-<img src="https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true">
-
+<div class="image-container">    
+ <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true')"></span>
 </details>
 
 
