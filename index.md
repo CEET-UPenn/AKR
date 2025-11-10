@@ -1,10 +1,9 @@
 <title>AKR Superfamily</title>
 
-[Click to jump to my heading](#custom-id)
-[About AKR](#about)
-[AKR Members](#members)
-[Phylogenies](#phylo)
-[Multiple Sequence Alignment](#msa)
+[About AKR](#about) | 
+[AKR Members](#members) | 
+[Phylogenies](#phylo) | 
+[Multiple Sequence Alignment](#msa) | 
 [Submit AKR Sequences](#submit)
 
 # Aldo-Keto Reductase (AKR) Superfamily Database {#top}
@@ -14,6 +13,7 @@ superfamily, as well as tools to visualize aligned sequences and their
 conservation across species. In addition, scientists are encouraged to submit
 newly identified AKRs.
 <img align="right" src="https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true" width="400" alt="AKR">
+
 AKRs share similar three-dimensional structures involving a parallel
 β-8/α-8-barrel fold, and they function as enzymes that catalyze the
 reduced nicotinamide adenine dinucleotide (phosphate) (NAD(P)H)-dependent
@@ -25,6 +25,7 @@ features that influence their substrates and kinetics.
 
 Previous versions of this website coding and design by Jaehyun Joo, Blanca Himes, Anisha Tehim, Nisha Narayanan,
 and Trevor Penning. 
+
 Current version by Kim Lorenz, Benjamin F Voight, and Trevor Penning. Full code for this site is available on
 [GitHub](https://github.com/UPenn-CEET/AKR)
 
@@ -46,7 +47,7 @@ The general format for AKR names is as follows: the root symbol ‘AKR’ for Al
 ### Definition of Families 
 Delineation of families occurs at the 40% amino acid identity level. Members of an AKR family should have < 40% amino acid identity with any other family. At present, the sixteen families defined by our cluster analysis satisfy this criterion.
 
-###Definition of Subfamilies
+### Definition of Subfamilies
 Within a given family, subfamilies may be defined by a > 60% identity in amino acid sequence among subfamily members. By this definition, nine of sixteen AKR families include multiple subfamilies. For example, family AKR1 includes the following subfamilies: AKR1C1-AKR1C4 and AKR1D1, which play critical roles in the metabolism of all steroid hormones, conjugated steroids, synthetic therapeutic steroids, and the synthesis of neurosteroids and bile acids. Numbering of the known members of each subfamily was assigned in an arbitrary fashion. For example, AKR1A1, AKR1A2, and AKR1A3 are the aldehyde reductases from human, pig, and rat, respectively. Any new additions to a subfamily are numbered chronologically.
 
 ### Allelic Variants versus Isoforms
@@ -55,13 +56,13 @@ Allelic variation may occur between superfamily members. We propose that protein
 ### Dimeric Proteins
 Multimers are proteins which consist of multiple monomers. Although majority of all AKR proteins are monomeric proteins, approximately 320 amino acids in length, the AKR2 (which includes the xylose reductases), AKR6 (which includes the b-subunits of the voltage-gated potassium channel), and AKR7 (which contains the aflatoxin dialdehyde reductases) families have been shown to form multimers. To expand the nomenclature to accommodate multimers we recommend that the composition and stoichiometry be listed. For example, AKR7A1:AKR7A4 (1:3) would designate a tetramer of the composition indicated.
 
-###AKR Genes
+### AKR Genes
 The designation for an AKR superfamily gene should be noted in italics to distinguish between the gene and the protein. For example, the gene AKR1A1 encodes the protein AKR1A1.
 
 The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 ---
 ## Protein Structures
-AKRs are characterized by an (αβ)8-barrel structure:
+AKRs are characterized by an (αβ)8-barrel structure.
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR_barrel_structure.png?raw=true)](https://www.rcsb.org/3d-view/1US0/1)
 
 ### Loop Structure
@@ -72,7 +73,7 @@ Using the structure of AKR1C9W, CHO Reductase with NADP+, three large loops can 
 Cofactor binding site for 3α-HSD (AKR1C9). Distances are in angstroms.
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/cofactor.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 
-###Typical Catalytic Tetrad
+### Typical Catalytic Tetrad
 Blue sphere indicates the position of a water molecule and the probable position of the substrate carbonyl. Taken from 3α-HSD (AKR1c9).
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/tetrad.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 [Home](#top)
