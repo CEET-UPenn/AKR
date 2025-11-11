@@ -1,51 +1,11 @@
-# Aldo-Keto Reductase (AKR) Superfamily Database
+# About AKR {#top}
 
-[About AKR](./About-AKR.html) | 
-[AKR Members](#members) | 
-[Phylogenies](#phylo) | 
-[Multiple Sequence Alignment](#msa) | 
-[Submit AKR Sequences](#submit)
+[Nomenclature](#Names)  
+[Structures](#Structure)
+[Families](#Families)
+[back](./)
 
-
-This site contains existing and potential protein sequences of the AKR protein
-superfamily, as well as tools to visualize aligned sequences and their
-conservation across species. In addition, scientists are encouraged to submit
-newly identified AKRs.
-<img align="right" src="https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true"alt="AKR">
-
-AKRs share similar three-dimensional structures involving a parallel
-β-8/α-8-barrel fold, and they function as enzymes that catalyze the
-reduced nicotinamide adenine dinucleotide (phosphate) (NAD(P)H)-dependent
-oxido-reduction of carbonyl groups. Over 190 members have been identified in
-species ranging from prokaryotes to plants, fungi, and animals. These proteins,
-which are grouped into 16 families named AKR1-AKR16, have unique structural
-features that influence their substrates and kinetics.
-
-## Contributors
-
-Previous versions of this website coding and design by Jaehyun Joo, Blanca Himes, Anisha Tehim, Nisha Narayanan,
-and Trevor Penning. 
-
-Current version by Kim Lorenz, Benjamin F Voight, and Trevor Penning. Full code for this site is available on
-[GitHub](https://github.com/UPenn-CEET/AKR)
-
-## References
-
-Mindnich RD, Penning TM. [Aldo-keto reductase (AKR) superfamily: genomics and annotation.](https://pubmed.ncbi.nlm.nih.gov/19706366/) Hum Genomics. 2009 Jul;3(4):362-70. doi: 10.1186/1479-7364-3-4-362. PMID: 19706366; PMCID: PMC3206293.
-
-Penning TM. [The aldo-keto reductases (AKRs): Overview.](https://pubmed.ncbi.nlm.nih.gov/25304492/) Chem Biol Interact. 2015 Jun 5;234:236-46. doi: 10.1016/j.cbi.2014.09.024. Epub 2014 Oct 7. PMID: 25304492; PMCID: PMC4388799. 
-
-## Funding 
-
-This work was supported by the University of Pennsylvania [Center of Excellence in Environmental Toxicology](https://ceet.upenn.edu/) (P30 ES013508).
-
-[Home](#top)
-
-***
-
-# About AKR {#about}
-
-## Nomenclature
+## Nomenclature {#Names}
 
 The general format for AKR names is as follows: the root symbol ‘AKR’ for Aldo-Keto Reductase; an Arabic number designating the family; a letter indicating the subfamily when multiple subfamilies exist; and an Arabic numeral representing the unique protein sequence. Under the system, the protein AKR1A1 would be the first AKR in family 1, subfamily A, and in this instance corresponds to human aldehyde reductase.
 
@@ -71,10 +31,12 @@ The designation for an AKR superfamily gene should be noted in italics to distin
 
 The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 
+<br>
+[Home](#top)
 
 ***
 
-## Protein Structures
+## Protein Structures {#Structure}
 
 AKRs are characterized by an (αβ)8-barrel structure.  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR_barrel_structure.png?raw=true)](https://www.rcsb.org/3d-view/1US0/1)
@@ -99,7 +61,7 @@ Blue sphere indicates the position of a water molecule and the probable position
 
 ***
 
-## AKR Family Descriptions
+## AKR Family Descriptions {#Families}
 
 ### AKR Family 1
 
@@ -149,225 +111,6 @@ Members of the AKR12 family are known as Streptomyces sugar aldehyde reductases.
 
 Members of AKR13 are classified as hyperthermophilic bacteria reductases. These enzymes are involved in protein thermostabilization, including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide bridges, packing, decrease of the entropy of unfolding, and intersubunit interactions.
 
-[Home](#top)
-
-***
-
-# AKR Members {#members}
-
-## Existing Members
-
-<a href="https://ceet-upenn.github.io/AKR-tables/#Existing">Link to Existing AKR Superfamily Members Table</a>
-
-## Potential Members
-
-<a href="https://ceet-upenn.github.io/AKR-tables/#Potential">Link to Potential AKR Superfamily Members Table</a>
-
-[Home](#top)
-
-***
-
-# Phylogenies {#phylo}
-
-These dendrograms replace the older versions constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
-
-Note that tree diagrams are only available to families with at least three members.
-
-## Select an AKR Phylogeny Diagram
-
-Click the group name to view the phylogeny tree
-
-### By Family Group
-
-<details>
- <summary>AKR1</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR2</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR3</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR3.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR4</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR4.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR5</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR5.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR6</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR6.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR7</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR7.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR9</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR9.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR11</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR11.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR12</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR12.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>AKR13</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR13.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-### By Taxonomic Group
-
-<details>
- <summary>Animalia</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Animalia_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Bacteria</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Bacteria_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Fungi</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Fungi_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Plantae</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Plantae_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Insecta</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Insecta_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Mammalia</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Mammalia_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Lagomorpha</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Lagomorpha_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Rodentia</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Rodentia_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
-<details>
- <summary>Homo sapiens</summary>
- <div class="image-container">    
-  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Homo_sapiens_AKRs.png?raw=true'); max-width:100%"></span>
- </div>
-</details>
-
 <br>
 [Home](#top)
-
-***
-
-# Multiple Sequence Alignment {#msa}
-
-This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. To use it, select a group of interest from the interactive menu to adjust the set of sequences output. The alignment is created with MSAViewer, which provides an interactive JavaScript-based visualization of multiple sequence alignment. Options for the aligner can be set with the blue buttons, including the color scheme. Further details can be found in the MSAViewer user manual and this GitHub repository on available color schemes.
-
-## Select a set of AKR proteins to visualize
-
-[Home](#top)
-
-***
-
-# Submit AKR Sequences {#submit}
-
-## Instructions
-
-
-1. Since the proposed nomenclature system is protein-based, the newly identified AKR will require that the amino acid sequence has been obtained by either cDNA cloning or by direct methods. The protein encoded by a cDNA should have been either overexpressed or purified from its natural source. Investigators should provide [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), [Swiss-Prot](https://www.expasy.org/resources/uniprotkb-swiss-prot) or PIR accession numbers.
-2. Upon submission of a complete protein sequence, it will be matched against the AKRs in the database and placed within the cluster analysis.
-3. The location of the sequence within the superfamily cluster analysis will determine its assigned designation. As needed, new families and subfamilies will be added to the existing system.
-4. The sequence, the assigned designation, and position within the cluster analysis will be returned to the submitter, but the database will not be updated until the submission has been published. We encourage the submitter to use the new assignment in their publication. It is an investigator’s responsibility to notify the web-site that the information submitted has been published and provide the appropriate citation.
-
-## Submit
-
-Please email the following to placeholder@UPenn.edu
->Name  
->Email  
->Phone  
->Street Address  
->City  
->State/Province/Region  
->Postal/Zip Code  
->Country  
->
->Trivial name if one has been assigned (if none, state None)  
->Has the protein been expressed? Yes/No  
->What function has been assigned to the protein?  
->Sequence of the protein  
->Species of origin  
->Expression system used  
->Substrate used to assign enzyme activity  
->Accession Number  
->Status of Publication  
->Citation, if one exists (if none, state None)  
-
-
-[Home](#top)
+[back](./)
