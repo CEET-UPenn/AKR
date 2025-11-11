@@ -9,7 +9,7 @@
 
 ## Submit
 
-Please email the following to akrsuperfamily@outlook.com
+Please email the following to akrsuperfamily (at) outlook.com
 >Name  
 >Email  
 >Phone  
