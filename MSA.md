@@ -6,5 +6,12 @@ This page enables visualization of aligned protein sequences for various groups 
 
 msaviewer goes here
 
+<script src="path/to/msa.min.gz.js"></script>
+
+ar opts = {
+  el: rootDiv,
+  importURL: "https://github.com/CEET-UPenn/AKR-Superfamily/blob/main/data/msa/AKR1.aln",
+};
+var m = msa(opts);
 
 [Back](./)
