@@ -43,7 +43,7 @@ This work was supported by the University of Pennsylvania [Center of Excellence 
 
 ***
 
-# About AKR
+# About AKR {#about}
 
 ## Nomenclature
 
@@ -153,7 +153,7 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 
 ***
 
-# AKR Members 
+# AKR Members {#members}
 
 ## Existing Members
 
@@ -169,11 +169,13 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 
 # Phylogenies {#phylo}
 
-This dendrogram replaces the older version constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
+These dendrograms replace the older versions constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
 
 Note that tree diagrams are only available to families with at least three members.
 
 ## Select an AKR Phylogeny Diagram
+
+Click the group name to view the phylogeny tree
 
 ### By Family Group
 
@@ -324,7 +326,7 @@ Note that tree diagrams are only available to families with at least three membe
 
 ***
 
-# Multiple Sequence Alignment 
+# Multiple Sequence Alignment {#msa}
 
 This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. To use it, select a group of interest from the interactive menu to adjust the set of sequences output. The alignment is created with MSAViewer, which provides an interactive JavaScript-based visualization of multiple sequence alignment. Options for the aligner can be set with the blue buttons, including the color scheme. Further details can be found in the MSAViewer user manual and this GitHub repository on available color schemes.
 
@@ -334,7 +336,7 @@ This page enables visualization of aligned protein sequences for various groups 
 
 ***
 
-# Submit AKR Sequences 
+# Submit AKR Sequences {#submit}
 
 ## Instructions
 
