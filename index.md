@@ -16,8 +16,6 @@ newly identified AKRs.
   <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true'); max-width:70%"></span>
  </div>
 
-![](https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true)
-
 AKRs share similar three-dimensional structures involving a parallel
 β-8/α-8-barrel fold, and they function as enzymes that catalyze the
 reduced nicotinamide adenine dinucleotide (phosphate) (NAD(P)H)-dependent
