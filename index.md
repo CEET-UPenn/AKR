@@ -12,6 +12,10 @@ superfamily, as well as tools to visualize aligned sequences and their
 conservation across species. In addition, scientists are encouraged to submit
 newly identified AKRs.
 
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true'); max-width:70%"></span>
+ </div>
+
 ![](https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true)
 
 AKRs share similar three-dimensional structures involving a parallel
