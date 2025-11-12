@@ -7,14 +7,6 @@ Options for the aligner can be set with the blue buttons, including the color sc
 
 ## Select a set of AKR proteins to visualize
 
-msaviewer goes here
-
-<script src=https://github.com/CEET-UPenn/AKR-Superfamily/blob/main/js/msa.min.js></script>
-
-ar opts = {
-  el: rootDiv,
-  importURL: "https://github.com/CEET-UPenn/AKR-Superfamily/blob/main/data/msa/AKR1.aln",
-};
-var m = msa(opts);
+MSA viewer under construction
 
 [Back](./)
